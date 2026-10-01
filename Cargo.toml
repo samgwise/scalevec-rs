@@ -2,9 +2,9 @@
 name = "scalevec"
 version = "0.1.0"
 edition = "2024"
-description = "A flexible music representation system: scales, chords and rhythms as period-wrapping numeric vectors, with Scala .scl import/export"
+description = "A flexible music representation system: scales, chords and rhythms as period-wrapping numeric vectors, with Scala .scl import/export support"
 license = "Artistic-2.0"
-repository = "https://github.com/samgwise/scalevec"
+repository = "https://github.com/samgwise/scalevec-rs"
 keywords = ["music", "audio", "microtonal", "scale", "tuning"]
 categories = ["multimedia", "data-structures"]
 
