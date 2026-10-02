@@ -7,5 +7,6 @@ license = "Artistic-2.0"
 repository = "https://github.com/samgwise/scalevec-rs"
 keywords = ["music", "audio", "microtonal", "scale", "tuning"]
 categories = ["multimedia", "data-structures"]
+exclude = [".gitignore"]
 
 [dependencies]
